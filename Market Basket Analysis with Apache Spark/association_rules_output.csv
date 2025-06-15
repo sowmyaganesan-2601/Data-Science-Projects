@@ -1,0 +1,5 @@
+antecedent,consequent,confidence,lift,support,antecedent_str,consequent_str
+other vegetables,whole milk,0.121510673,0.769430471,0.014836597,other vegetables,whole milk
+yogurt,whole milk,0.129961089,0.822940238,0.011160863,yogurt,whole milk
+rolls/buns,whole milk,0.126974484,0.804028438,0.013967787,rolls/buns,whole milk
+soda,whole milk,0.119752237,0.758295691,0.011628684,soda,whole milk
